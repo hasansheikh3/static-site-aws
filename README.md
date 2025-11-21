@@ -12,5 +12,5 @@ Building this to learn AWS deployment patterns. It's a work in progress - check 
 ## Overview
 This is a learning project focused on AWS infrastructure. A static site built with Vanilla TypeScript and Vite, deployed to AWS (S3, CloudFront, and potentially ECS).
 
-**Last Updated:** November 20, 2025  
+**Last Updated:** November 21, 2025  
 **License:** MIT
